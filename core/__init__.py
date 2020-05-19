@@ -1,0 +1,2 @@
+class DeadHero(Exception):
+    pass
